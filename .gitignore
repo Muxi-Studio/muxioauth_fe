@@ -1,4 +1,4 @@
 static/**
-src/node_modules/**
-src/*.log
-src/*.log.**
+node_modules/**
+*.log
+*.log.**
